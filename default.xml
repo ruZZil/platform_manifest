@@ -46,7 +46,8 @@
   <!--project path="kernel/samsung/d2" name="AOKP-SGS3/kernel_samsung_d2" remote="gh" revision="ics" /-->
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="gh" revision="ics" />
   <project path="frameworks/base" name="AOKP-SGS3/frameworks_base" remote="gh" revision="ics" />
-  <project path="packages/apps/Launcher2" name="AOKP-SGS3/packages_apps_Launcher2" remote="gh" revision="ics" />
+  <!-- removed from repo??project path="packages/apps/Launcher2" name="AOKP-SGS3/packages_apps_Launcher2" remote="gh" revision="ics" /-->
+  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Phone" name="AOKP-SGS3/packages_apps_Phone" remote="gh" revision="ics" />
   <project path="packages/apps/Settings" name="AOKP-SGS3/packages_apps_Settings" remote="gh" revision="ics" />
   <project path="vendor/aokp" name="AOKP-SGS3/vendor_aokp" remote="gh" revision="ics" /> 
