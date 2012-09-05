@@ -42,7 +42,7 @@
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="gh" revision="ics" />
 
   <!-- local projects -->
-  <project path="device/samsung/d2vzw" name="AOKP-SGS3/device_samsung_d2vzw" remote="gh" revision="ics" />
+  <project path="device/samsung/d2vzw" name="ruZZil/device_samsung_d2vzw" remote="gh" revision="ics" />
   <!--project path="kernel/samsung/d2" name="AOKP-SGS3/kernel_samsung_d2" remote="gh" revision="ics" /-->
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="gh" revision="ics" />
   <project path="frameworks/base" name="AOKP-SGS3/frameworks_base" remote="gh" revision="ics" />
